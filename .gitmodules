@@ -1,0 +1,3 @@
+[submodule "searchEngine_code"]
+	path = searchEngine_code
+	url = https://github.com/companyService/searchEngine_code.git
